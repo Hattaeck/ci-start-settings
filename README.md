@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Hattaeck/ci-start-settings/actions/workflows/run.yml/badge.svg)](https://github.com/Hattaeck/ci-start-settings/actions/workflows/run.yml)
